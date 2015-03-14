@@ -1,0 +1,16 @@
+extends layout
+
+block content
+	table.u-full-width
+		thead
+			tr
+				th Pin Name
+        
+	tbody
+	each item in data
+		tr
+			td
+			b
+				a(href='/pin/view' + item.href)
+					= item.desc
+			br

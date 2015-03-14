@@ -1,0 +1,18 @@
+extends layout
+
+block content
+	table.u-full-width
+		thead
+			tr
+				th Board Name
+        
+	tbody
+	each item in data
+		//script(type='text/javascript').
+		//name= item.name.substring(0,item.name.indexOf('\n'))
+		tr
+			td
+			b
+				a(href='/board/view/' + item.name)
+					= item.name
+			br

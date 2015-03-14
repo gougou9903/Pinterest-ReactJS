@@ -1,0 +1,18 @@
+extends layout
+
+block content
+	a.button(href='/music/list') New Releases
+	a.button(href='/music/comingsoon') Coming Soon
+	h1= "Coming soon"
+	table
+		thead
+			tr
+				th Release Date
+				th Author
+				th Name
+		tbody
+		each item in data.results
+			tr
+				td= item.rlsdate
+				td= item.author
+				td= item.name

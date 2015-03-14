@@ -1,0 +1,14 @@
+extends layout
+
+block content
+    h1= "Games"
+    each item in result.body
+        .row
+        //pre= JSON.stringify(item)
+
+        h5 Name
+        b= item.name
+
+        h5 Score
+        b= item.score
+        .row
