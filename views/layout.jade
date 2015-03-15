@@ -2,12 +2,34 @@ doctype html
 html
   head
     title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge,chrome=1')
+    meta(name='viewport', content='width=device-width')
+    //link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel='stylesheet', href='http://fonts.googleapis.com/css?family=Raleway:400,700,400')
+    link(rel='stylesheet', href='/stylesheets/normalize.css')
+    link(rel='stylesheet', href='/stylesheets/skeleton.css')
+    link(rel='stylesheet', href='/stylesheets/custom.css')
+    script(src="lib/reactjs/react.js")
+    script(src="lib/reactjs/JSXTransformer.js")
   body
     div.container
         h1 Pinterest Data
         include navbar
-    block content
+    //block content
+
+    div.container
+        div#content
 
     script(src="../public/javascripts/keys.js")
     script(src="http://code.jquery.com/jquery.min.js")
+    
+
+    //our app
+    script(src="app.js" type='text/jsx')
+    script(src="contents/index/index.js" type='text/jsx')
+
+    script(src="contents/board/board.js" type='text/jsx')
+    script(src="contents/board/boardItem.js" type='text/jsx')
+    script(src="contents/board/view.js" type='text/jsx')
+
