@@ -1,0 +1,524 @@
+[{
+    "business_id": "vcNAWiLM4dR7D2nwwJ7nCA",
+    "full_address": "4840 E Indian School Rd\nSte 101\nPhoenix, AZ 85018",
+    "hours": {
+        "Tuesday": {
+            "close": "17:00",
+            "open": "08:00"
+        },
+        "Friday": {
+            "close": "17:00",
+            "open": "08:00"
+        },
+        "Monday": {
+            "close": "17:00",
+            "open": "08:00"
+        },
+        "Wednesday": {
+            "close": "17:00",
+            "open": "08:00"
+        },
+        "Thursday": {
+            "close": "17:00",
+            "open": "08:00"
+        }
+    },
+    "open": true,
+    "categories": ["Doctors", "Health & Medical"],
+    "city": "Phoenix",
+    "review_count": 7,
+    "name": "Eric Goldberg, MD",
+    "neighborhoods": [],
+    "longitude": -111.983758,
+    "state": "AZ",
+    "stars": 3.5,
+    "latitude": 33.499313,
+    "attributes": {
+        "By Appointment Only": true
+    },
+    "type": "business"
+}, {
+    "business_id": "PFO7RF1xz4ZBuaq46KsLpA",
+    "full_address": "2332 N Central Ave\nPhoenix, AZ 85004",
+    "hours": {},
+    "open": true,
+    "categories": ["Neurologist", "Doctors", "Health & Medical"],
+    "city": "Phoenix",
+    "review_count": 3,
+    "name": "Shafran Bronislava, MD",
+    "neighborhoods": [],
+    "longitude": -112.0739372,
+    "state": "AZ",
+    "stars": 3.5,
+    "latitude": 33.4739709,
+    "attributes": {
+        "By Appointment Only": true
+    },
+    "type": "business"
+}, {
+    "business_id": "KXt0Iky3ybeLsbY9KC6GSA",
+    "full_address": "2632 N 20th St\nPhoenix, AZ 85006",
+    "hours": {},
+    "open": true,
+    "categories": ["Doctors", "Health & Medical", "Cardiologists"],
+    "city": "Phoenix",
+    "review_count": 4,
+    "name": "Arizona Heart Institute",
+    "neighborhoods": [],
+    "longitude": -112.040398,
+    "state": "AZ",
+    "stars": 2,
+    "latitude": 33.477057,
+    "attributes": {},
+    "type": "business"
+}, {
+    "business_id": "BXKhaF0EeDnycbqgKzDuJQ",
+    "full_address": "1920 E Cambridge Ave\nPhoenix, AZ 85006",
+    "hours": {},
+    "open": true,
+    "categories": ["Doctors", "Health & Medical", "Cardiologists"],
+    "city": "Phoenix",
+    "review_count": 4,
+    "name": "Arizona Pediatric Cardiology Consultants",
+    "neighborhoods": [],
+    "longitude": -112.0407171,
+    "state": "AZ",
+    "stars": 4,
+    "latitude": 33.4775443,
+    "attributes": {
+        "By Appointment Only": true
+    },
+    "type": "business"
+}, {
+    "business_id": "JTiqc8D0MJpYbnObHuNA9w",
+    "full_address": "1331 N 7th St\nPhoenix, AZ 85006",
+    "hours": {},
+    "open": false,
+    "categories": ["Doctors", "Health & Medical"],
+    "city": "Phoenix",
+    "review_count": 3,
+    "name": "Center For Spinal Disorders",
+    "neighborhoods": [],
+    "longitude": -112.064401,
+    "state": "AZ",
+    "stars": 2.5,
+    "latitude": 33.463512,
+    "attributes": {
+        "By Appointment Only": true
+    },
+    "type": "business"
+}, {
+    "business_id": "k7xAg1QhK_8wze3BYWglRQ",
+    "full_address": "1300 N 12th St\nPhoenix, AZ 85006",
+    "hours": {
+        "Tuesday": {
+            "close": "17:00",
+            "open": "09:00"
+        },
+        "Monday": {
+            "close": "17:00",
+            "open": "09:00"
+        },
+        "Friday": {
+            "close": "17:00",
+            "open": "09:00"
+        },
+        "Wednesday": {
+            "close": "17:00",
+            "open": "09:00"
+        },
+        "Thursday": {
+            "close": "17:00",
+            "open": "09:00"
+        }
+    },
+    "open": true,
+    "categories": ["Doctors", "Health & Medical", "Family Practice"],
+    "city": "Phoenix",
+    "review_count": 3,
+    "name": "Austin Linda MD",
+    "neighborhoods": [],
+    "longitude": -112.057192,
+    "state": "AZ",
+    "stars": 3.5,
+    "latitude": 33.463111,
+    "attributes": {
+        "By Appointment Only": true
+    },
+    "type": "business"
+}, {
+    "business_id": "aOtx6bMU5M-Q_cNxhB0wYw",
+    "full_address": "16611 S 40th St\nSte 180\nPhoenix, AZ 85048",
+    "hours": {
+        "Tuesday": {
+            "close": "17:00",
+            "open": "08:00"
+        },
+        "Friday": {
+            "close": "17:00",
+            "open": "08:00"
+        },
+        "Monday": {
+            "close": "17:00",
+            "open": "08:00"
+        },
+        "Wednesday": {
+            "close": "17:00",
+            "open": "08:00"
+        },
+        "Thursday": {
+            "close": "17:00",
+            "open": "08:00"
+        }
+    },
+    "open": true,
+    "categories": ["Doctors", "Beauty & Spas", "Laser Hair Removal", "Medical Spas", "Health & Medical", "Hair Removal", "Obstetricians & Gynecologists"],
+    "city": "Phoenix",
+    "review_count": 8,
+    "name": "Southwest Women's Care",
+    "neighborhoods": [],
+    "longitude": -111.9971322,
+    "state": "AZ",
+    "stars": 3.5,
+    "latitude": 33.2959935,
+    "attributes": {
+        "By Appointment Only": true,
+        "Parking": {
+            "garage": false,
+            "street": false,
+            "validated": false,
+            "lot": true,
+            "valet": false
+        },
+        "Accepts Credit Cards": true,
+        "Wheelchair Accessible": true,
+        "Price Range": 2
+    },
+    "type": "business"
+}, {
+    "business_id": "K4yExVqUtW2sRE4grXU8Zw",
+    "full_address": "3877 N 7th St\nSte 400\nPhoenix, AZ 85014",
+    "hours": {},
+    "open": true,
+    "categories": ["Midwives", "Doctors", "Health & Medical", "Obstetricians & Gynecologists"],
+    "city": "Phoenix",
+    "review_count": 5,
+    "name": "Phoenix Perinatal Associates",
+    "neighborhoods": [],
+    "longitude": -112.0644782,
+    "state": "AZ",
+    "stars": 4,
+    "latitude": 33.4925021,
+    "attributes": {
+        "By Appointment Only": true
+    },
+    "type": "business"
+}, {
+    "business_id": "lZFUmxcvjD8LdzyTYXBd_A",
+    "full_address": "Phoenix, AZ 85034",
+    "hours": {},
+    "open": true,
+    "categories": ["Doctors", "Health & Medical"],
+    "city": "Phoenix",
+    "review_count": 3,
+    "name": "Pediatric Urology and Associates",
+    "neighborhoods": [],
+    "longitude": -112.0178286,
+    "state": "AZ",
+    "stars": 4.5,
+    "latitude": 33.4382789,
+    "attributes": {
+        "By Appointment Only": true
+    },
+    "type": "business"
+}, {
+    "business_id": "a-XWQ4HyxJEctlowO8rXwQ",
+    "full_address": "690 N Cofco Center Ct\nSte 290\nPhoenix, AZ 85008",
+    "hours": {},
+    "open": true,
+    "categories": ["Doctors", "Orthopedists", "Health & Medical"],
+    "city": "Phoenix",
+    "review_count": 3,
+    "name": "Arizona Orthopaedic Associates",
+    "neighborhoods": [],
+    "longitude": -111.990314,
+    "state": "AZ",
+    "stars": 3.5,
+    "latitude": 33.455508,
+    "attributes": {
+        "By Appointment Only": true
+    },
+    "type": "business"
+}, {
+    "business_id": "eovEq5kDSdf0WF_P_bD2Uw",
+    "full_address": "1313 E Osborn Rd\nSte 250\nPhoenix, AZ 85012",
+    "hours": {},
+    "open": true,
+    "categories": ["Doctors", "Health & Medical"],
+    "city": "Phoenix",
+    "review_count": 11,
+    "name": "Central Phoenix Women's Health Care Ltd MD",
+    "neighborhoods": [],
+    "longitude": -112.069119,
+    "state": "AZ",
+    "stars": 3.5,
+    "latitude": 33.511391,
+    "attributes": {
+        "By Appointment Only": true
+    },
+    "type": "business"
+}, {
+    "business_id": "1_ksgP_VSwFx0yBUAV3T4A",
+    "full_address": "5056 N Central Ave\nPhoenix, AZ 85012",
+    "hours": {
+        "Friday": {
+            "close": "12:00",
+            "open": "07:00"
+        },
+        "Tuesday": {
+            "close": "17:00",
+            "open": "07:00"
+        },
+        "Monday": {
+            "close": "17:00",
+            "open": "07:00"
+        },
+        "Wednesday": {
+            "close": "17:00",
+            "open": "07:00"
+        },
+        "Thursday": {
+            "close": "17:00",
+            "open": "07:00"
+        }
+    },
+    "open": true,
+    "categories": ["Dermatologists", "Doctors", "Health & Medical", "Cosmetic Surgeons", "Tattoo Removal"],
+    "city": "Phoenix",
+    "review_count": 16,
+    "name": "Phoenix Skin Dermatology",
+    "neighborhoods": [],
+    "longitude": -112.0740497,
+    "state": "AZ",
+    "stars": 4,
+    "latitude": 33.5106332,
+    "attributes": {
+        "By Appointment Only": true,
+        "Parking": {
+            "garage": false,
+            "street": false,
+            "validated": false,
+            "lot": true,
+            "valet": false
+        },
+        "Accepts Credit Cards": true,
+        "Wheelchair Accessible": true,
+        "Price Range": 2
+    },
+    "type": "business"
+}, {
+    "business_id": "oZdqBEQLwl85jEQKL6XMPQ",
+    "full_address": "5002 S Mill Ave\nTempe, AZ 85282",
+    "hours": {},
+    "open": true,
+    "categories": ["Sports Medicine", "Doctors", "Orthopedists", "Health & Medical"],
+    "city": "Tempe",
+    "review_count": 11,
+    "name": "Orthopedic Clinic Association",
+    "neighborhoods": [],
+    "longitude": -111.939842224121,
+    "state": "AZ",
+    "stars": 2.5,
+    "latitude": 33.3802947998047,
+    "attributes": {
+        "By Appointment Only": true
+    },
+    "type": "business"
+}, {
+    "business_id": "ZPkomfeRH2pflacWf7U3-A",
+    "full_address": "2222 E Highland Ave\nSte 425\nPhoenix, AZ 85016",
+    "hours": {},
+    "open": true,
+    "categories": ["Doctors", "Orthopedists", "Health & Medical"],
+    "city": "Phoenix",
+    "review_count": 3,
+    "name": "Zeman David C, MD",
+    "neighborhoods": [],
+    "longitude": -112.0335679,
+    "state": "AZ",
+    "stars": 5,
+    "latitude": 33.5063676,
+    "attributes": {},
+    "type": "business"
+}, {
+    "business_id": "4R8uKEIwTVzHGLa3Edub0Q",
+    "full_address": "4800 North 22nd Street\nPhoenix, AZ 85016",
+    "hours": {
+        "Tuesday": {
+            "close": "17:00",
+            "open": "09:00"
+        },
+        "Monday": {
+            "close": "17:00",
+            "open": "09:00"
+        },
+        "Friday": {
+            "close": "17:00",
+            "open": "09:00"
+        },
+        "Wednesday": {
+            "close": "17:00",
+            "open": "09:00"
+        },
+        "Thursday": {
+            "close": "17:00",
+            "open": "09:00"
+        }
+    },
+    "open": true,
+    "categories": ["Optometrists", "Laser Eye Surgery/Lasik", "Ophthalmologists", "Health & Medical", "Doctors"],
+    "city": "Phoenix",
+    "review_count": 15,
+    "name": "Barnet Dulaney Perkins Eye Center",
+    "neighborhoods": [],
+    "longitude": -112.0346596,
+    "state": "AZ",
+    "stars": 4,
+    "latitude": 33.507193,
+    "attributes": {
+        "By Appointment Only": true
+    },
+    "type": "business"
+}, {
+    "business_id": "c_PhRjEIA2jRAvWDWsn4Vg",
+    "full_address": "4131 N 24th St\nSte B102\nPhoenix, AZ 85016",
+    "hours": {},
+    "open": true,
+    "categories": ["Doctors", "Health & Medical"],
+    "city": "Phoenix",
+    "review_count": 10,
+    "name": "Arcadia Family Clinic",
+    "neighborhoods": [],
+    "longitude": -112.029856606152,
+    "state": "AZ",
+    "stars": 3.5,
+    "latitude": 33.4958197969458,
+    "attributes": {
+        "By Appointment Only": true
+    },
+    "type": "business"
+}, {
+    "business_id": "9zlpLPhXYwK_STi2u8DjxQ",
+    "full_address": "2222 E Highland Ave\nSte 318\nPhoenix, AZ 85016",
+    "hours": {},
+    "open": true,
+    "categories": ["Doctors", "Health & Medical"],
+    "city": "Phoenix",
+    "review_count": 8,
+    "name": "Kramer E Lawrence, MD",
+    "neighborhoods": [],
+    "longitude": -112.0335679,
+    "state": "AZ",
+    "stars": 3,
+    "latitude": 33.5063676,
+    "attributes": {
+        "By Appointment Only": true
+    },
+    "type": "business"
+}, {
+    "business_id": "yS6tXY9skBQ4eLZLQaDlEg",
+    "full_address": "4250 E Camelback Rd\nSte K100\nPhoenix, AZ 85018",
+    "hours": {
+        "Friday": {
+            "close": "17:00",
+            "open": "07:00"
+        },
+        "Tuesday": {
+            "close": "17:00",
+            "open": "07:00"
+        },
+        "Thursday": {
+            "close": "17:00",
+            "open": "07:00"
+        },
+        "Wednesday": {
+            "close": "17:00",
+            "open": "07:00"
+        },
+        "Monday": {
+            "close": "17:00",
+            "open": "07:00"
+        }
+    },
+    "open": true,
+    "categories": ["Doctors", "Health & Medical", "Family Practice"],
+    "city": "Phoenix",
+    "review_count": 18,
+    "name": "Mountain View Family Physicians",
+    "neighborhoods": [],
+    "longitude": -111.988814,
+    "state": "AZ",
+    "stars": 4.5,
+    "latitude": 33.511272,
+    "attributes": {
+        "By Appointment Only": true
+    },
+    "type": "business"
+}, {
+    "business_id": "s4gUV_zb8EeYosek2GBB4Q",
+    "full_address": "2929 East Camelback Road, Suite 110\nPhoenix, AZ 85016",
+    "hours": {},
+    "open": true,
+    "categories": ["Optometrists", "Ophthalmologists", "Health & Medical", "Doctors", "Laser Eye Surgery/Lasik"],
+    "city": "Phoenix",
+    "review_count": 13,
+    "name": "The LASIK Vision Institute",
+    "neighborhoods": [],
+    "longitude": -112.01806,
+    "state": "AZ",
+    "stars": 4,
+    "latitude": 33.509272,
+    "attributes": {
+        "By Appointment Only": true
+    },
+    "type": "business"
+}, {
+    "business_id": "BZqn7i_Z-MJ1QrxCyjFZSw",
+    "full_address": "4400 N 32nd St\nSte 200\nPhoenix, AZ 85018",
+    "hours": {
+        "Tuesday": {
+            "close": "17:00",
+            "open": "19:30"
+        },
+        "Friday": {
+            "close": "11:00",
+            "open": "19:30"
+        },
+        "Thursday": {
+            "close": "17:00",
+            "open": "19:30"
+        },
+        "Monday": {
+            "close": "17:00",
+            "open": "19:30"
+        },
+        "Wednesday": {
+            "close": "17:00",
+            "open": "19:30"
+        }
+    },
+    "open": true,
+    "categories": ["Doctors", "Health & Medical", "Family Practice"],
+    "city": "Phoenix",
+    "review_count": 9,
+    "name": "William Riley, MD",
+    "neighborhoods": [],
+    "longitude": -112.0133613,
+    "state": "AZ",
+    "stars": 4.5,
+    "latitude": 33.5012953,
+    "attributes": {
+        "By Appointment Only": true
+    },
+    "type": "business"
+}]
