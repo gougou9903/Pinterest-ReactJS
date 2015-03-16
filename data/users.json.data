@@ -1,0 +1,351 @@
+[{
+    "yelping_since": "2012-02",
+    "votes": {
+        "funny": 1,
+        "useful": 5,
+        "cool": 0
+    },
+    "review_count": 6,
+    "name": "Lee",
+    "user_id": "qtrmBGNqCvupHMHL_bKFgQ",
+    "friends": [],
+    "fans": 0,
+    "average_stars": 3.83,
+    "type": "user",
+    "compliments": {},
+    "elite": []
+}, {
+    "yelping_since": "2011-12",
+    "votes": {
+        "funny": 0,
+        "useful": 0,
+        "cool": 0
+    },
+    "review_count": 1,
+    "name": "Matthew",
+    "user_id": "MWhR9LvOdRbqtu1I_DRFBg",
+    "friends": ["8Y2EN4XNNhnwssuPb31sJg", "A1jPleJ99kXZ3t9wQ3np-g", "resYiOoGkQg6q0qgtj_1GA", "skl1OnkjMqD4GdFpVhU88Q", "3Ss2aqrSoO7WbxE2GcLlfQ", "SGy3JDbhtzDTTBO7unqQxg", "Aez4Y1F0m2ucIfmfzPZfjw", "fT4jx_9cRWyKFROxv_MIrw", "QmZOAYM7ITbTdkTn6ay_ag", "_l18_te9ifeArhNdCfFy1g", "H6ovBilqI3cSunx27XbPUg", "A8pmiEiiWjXci_oeigLNZQ", "fdSfg45S-P-FcVF-VIUOew"],
+    "fans": 0,
+    "average_stars": 5,
+    "type": "user",
+    "compliments": {},
+    "elite": []
+}, {
+    "yelping_since": "2010-09",
+    "votes": {
+        "funny": 5,
+        "useful": 20,
+        "cool": 11
+    },
+    "review_count": 22,
+    "name": "Jasmine",
+    "user_id": "0vscrHoajVRa1Yk19XWdwA",
+    "friends": ["8wK7_qZ18mokBxw5zdSo9w", "AdxHwIZAOhY4zNXspg6ITw", "IV_LPLdaXrv4YCEXg12Aig", "GrYE945votxByiK9dk9GDw"],
+    "fans": 1,
+    "average_stars": 5,
+    "type": "user",
+    "compliments": {
+        "funny": 1,
+        "cool": 2,
+        "writer": 1,
+        "photos": 1,
+        "more": 2
+    },
+    "elite": []
+}, {
+    "yelping_since": "2012-01",
+    "votes": {
+        "funny": 0,
+        "useful": 1,
+        "cool": 0
+    },
+    "review_count": 1,
+    "name": "Harley",
+    "user_id": "5Xh4Qc3rxhAQ_NcNtxLssQ",
+    "friends": [],
+    "fans": 0,
+    "average_stars": 1,
+    "type": "user",
+    "compliments": {},
+    "elite": []
+}, {
+    "yelping_since": "2011-08",
+    "votes": {
+        "funny": 2,
+        "useful": 6,
+        "cool": 1
+    },
+    "review_count": 6,
+    "name": "Tyler",
+    "user_id": "4dJLZvpYRcjQ6qDR5i7WsA",
+    "friends": [],
+    "fans": 0,
+    "average_stars": 4.33,
+    "type": "user",
+    "compliments": {},
+    "elite": []
+}, {
+    "yelping_since": "2008-10",
+    "votes": {
+        "funny": 16,
+        "useful": 70,
+        "cool": 21
+    },
+    "review_count": 21,
+    "name": "Gary",
+    "user_id": "e-G2NEjH2PCIl_Z6jbXIrA",
+    "friends": [],
+    "fans": 0,
+    "average_stars": 3.19,
+    "type": "user",
+    "compliments": {},
+    "elite": []
+}, {
+    "yelping_since": "2008-06",
+    "votes": {
+        "funny": 33,
+        "useful": 72,
+        "cool": 39
+    },
+    "review_count": 74,
+    "name": "Jody",
+    "user_id": "Yap-E13OdirLr9w_X6mcCA",
+    "friends": ["0DuUBFaOLSehYIV8R68G-A", "RGKsjhg8cllRfVs-3PWT5A", "2xl5reFNGc1w8qUmc6ZPxQ"],
+    "fans": 4,
+    "average_stars": 3.97,
+    "type": "user",
+    "compliments": {
+        "photos": 1,
+        "cool": 3,
+        "writer": 1,
+        "funny": 1,
+        "plain": 2
+    },
+    "elite": []
+}, {
+    "yelping_since": "2010-04",
+    "votes": {
+        "funny": 23,
+        "useful": 28,
+        "cool": 18
+    },
+    "review_count": 38,
+    "name": "Azariah",
+    "user_id": "BwvlE7SguUtXP-InnJbjSw",
+    "friends": ["EVWnjbS4hVbspI0M4YH4Pw", "acuoEIpGPqKWvvFxWtDRVg", "8LYEPulG-ltZro0oEBREdw", "lh6VX3J1FCefn4yDJuydqg", "FOfUxCjxD5xpKM_7mphLJg", "N7DxZbMcCPOFSD9ISUzQJw", "qjDy5Kq_zN4bcxVIxt7BCA", "4wpYB6Qd5YidLC_X0jYB9w", "bhSlsx898TzpPCKBrgt9eQ", "Chsa9RusRaejI48p6eySCQ", "JFAdTlFkurs2xxBtG8xXYQ", "xNjpfbbbhq4F2JREBdAxLg", "xGuh7FY51oUI_2OgqYo4PQ", "myrbuS74K2zktXl94HrPFA", "7MpbkRJ7pCQ0H-eS67BLfA", "Hh1NevgEpmuFhLBvwAHaDQ", "YZbWdDC_whmqwZCooBB6WQ", "YLva2jlLqv_w0hiKuX_euA", "zFfhFH_DAuTPWNNR11EBkQ", "DxkZlGlTv4EcXdPPLNbW4g", "jQ4qgVt6-SRlmlXKyVpC6A"],
+    "fans": 2,
+    "average_stars": 3.58,
+    "type": "user",
+    "compliments": {
+        "profile": 1,
+        "funny": 2,
+        "writer": 1,
+        "note": 1,
+        "hot": 4,
+        "cool": 3,
+        "more": 2
+    },
+    "elite": []
+}, {
+    "yelping_since": "2014-05",
+    "votes": {
+        "funny": 0,
+        "useful": 0,
+        "cool": 0
+    },
+    "review_count": 1,
+    "name": "Keith",
+    "user_id": "uygg55wWaEP0xTR7dHDg-g",
+    "friends": [],
+    "fans": 0,
+    "average_stars": 2,
+    "type": "user",
+    "compliments": {},
+    "elite": []
+}, {
+    "yelping_since": "2013-11",
+    "votes": {
+        "funny": 0,
+        "useful": 2,
+        "cool": 0
+    },
+    "review_count": 9,
+    "name": "Clarinda",
+    "user_id": "as22TLsZn_SwVv4oCjxdMg",
+    "friends": ["ND6DMIKxM8Q1ShEMZuA5rA", "M-O0tasOl0SGiUsxdO5cZw", "1cDIfb6TSh71n99Ark5n3A", "NYhXvxMqbVsB7lcFrgNqow", "bFe-sUMDaDm2Q9u5Cve1tQ", "7P9okhRRYG0hz02Fk7tRMw", "enR0fiE0u_jfmW2x3aqxUA", "W4YsRCa1Xq4wrRRf53E5ZQ", "b89mmlWnUfrIzpuftP3cgQ", "nutDqAZ0fyOmz8yAqbCvFw", "BPbrH2VQASzR9Le6oC4DpQ"],
+    "fans": 0,
+    "average_stars": 4,
+    "type": "user",
+    "compliments": {
+        "plain": 1
+    },
+    "elite": []
+}, {
+    "yelping_since": "2012-12",
+    "votes": {
+        "funny": 0,
+        "useful": 4,
+        "cool": 0
+    },
+    "review_count": 9,
+    "name": "Dan",
+    "user_id": "9Tnds0bhPScGEBXbKn4HqQ",
+    "friends": [],
+    "fans": 0,
+    "average_stars": 3.6,
+    "type": "user",
+    "compliments": {},
+    "elite": []
+}, {
+    "yelping_since": "2010-07",
+    "votes": {
+        "funny": 0,
+        "useful": 3,
+        "cool": 1
+    },
+    "review_count": 4,
+    "name": "Marisa",
+    "user_id": "3CQazRodHswFak5RKStX6g",
+    "friends": ["pG9docIFmOtbit0Kr2KG_w", "eb5QS5WPsW64qCCwzsiI6Q", "3ArIdn_lcSJdYLQo0a8srw", "iwUN95LIaEr75TZE_JC6bg", "ZyO8q4e5y_kNhEe4uVO-wA", "_N0-82RQCDCBhVFYNGBPLQ", "U0FGGImk_WXy4WBj2w3BMQ", "XxA5k_iyzf9HdvPMp_J27w", "BqxadMxDKkxzfDtaD1AxtA"],
+    "fans": 0,
+    "average_stars": 5,
+    "type": "user",
+    "compliments": {
+        "note": 1,
+        "cool": 2
+    },
+    "elite": []
+}, {
+    "yelping_since": "2011-09",
+    "votes": {
+        "funny": 0,
+        "useful": 2,
+        "cool": 0
+    },
+    "review_count": 2,
+    "name": "Vanessa",
+    "user_id": "-HIWRVIPcrjFyg1g0-jlnA",
+    "friends": [],
+    "fans": 0,
+    "average_stars": 5,
+    "type": "user",
+    "compliments": {},
+    "elite": []
+}, {
+    "yelping_since": "2013-07",
+    "votes": {
+        "funny": 4,
+        "useful": 2,
+        "cool": 1
+    },
+    "review_count": 4,
+    "name": "Dickman",
+    "user_id": "kTpGfnUhc2EBWQCB14Ggkw",
+    "friends": [],
+    "fans": 0,
+    "average_stars": 2,
+    "type": "user",
+    "compliments": {
+        "funny": 2
+    },
+    "elite": []
+}, {
+    "yelping_since": "2011-04",
+    "votes": {
+        "funny": 19,
+        "useful": 76,
+        "cool": 12
+    },
+    "review_count": 30,
+    "name": "Scott",
+    "user_id": "pmAPF4XwHv4U7DKvPsGt4Q",
+    "friends": ["FwF627yIH7ktFmt9S-q-dA", "4IJSpd1DRg4oPsm7-lA5lA", "_GhZqDtATcQSdxozmcjlHQ", "Ez_55d0h_mNnZ-QmkWiXQw", "ZH8KOgH7lG0sVmjYq0XfsA"],
+    "fans": 0,
+    "average_stars": 2.57,
+    "type": "user",
+    "compliments": {
+        "writer": 1,
+        "more": 1
+    },
+    "elite": []
+}, {
+    "yelping_since": "2010-07",
+    "votes": {
+        "funny": 0,
+        "useful": 1,
+        "cool": 0
+    },
+    "review_count": 2,
+    "name": "Cecilia",
+    "user_id": "SfwiccRY_tqPYEHvGiCeHw",
+    "friends": [],
+    "fans": 0,
+    "average_stars": 4.5,
+    "type": "user",
+    "compliments": {},
+    "elite": []
+}, {
+    "yelping_since": "2008-10",
+    "votes": {
+        "funny": 3,
+        "useful": 16,
+        "cool": 2
+    },
+    "review_count": 8,
+    "name": "Martin",
+    "user_id": "vpQhhoQzLQZLXuChda3y1Q",
+    "friends": [],
+    "fans": 0,
+    "average_stars": 3.5,
+    "type": "user",
+    "compliments": {},
+    "elite": []
+}, {
+    "yelping_since": "2010-01",
+    "votes": {
+        "funny": 1,
+        "useful": 10,
+        "cool": 5
+    },
+    "review_count": 4,
+    "name": "bill",
+    "user_id": "MtX0WZ4bqMfFuYvtupgRqg",
+    "friends": ["90a6z--_CUrl84aCzZyPsg", "uwWnkdNqVSrLCUzV1SZx2A"],
+    "fans": 0,
+    "average_stars": 2.25,
+    "type": "user",
+    "compliments": {},
+    "elite": []
+}, {
+    "yelping_since": "2012-06",
+    "votes": {
+        "funny": 0,
+        "useful": 1,
+        "cool": 0
+    },
+    "review_count": 1,
+    "name": "Barbara",
+    "user_id": "63FT2RenrN1CKIctDkWgHw",
+    "friends": ["eJGh4UF0zHIPPLZG1NkpgA", "9LshXzm2dbujaqqnCRr_DQ", "L5ewvQP3K56jOQN8eUIs8Q", "QfRmDp4obVNSfFneMfFMNQ"],
+    "fans": 0,
+    "average_stars": 5,
+    "type": "user",
+    "compliments": {},
+    "elite": []
+}, {
+    "yelping_since": "2013-08",
+    "votes": {
+        "funny": 0,
+        "useful": 1,
+        "cool": 0
+    },
+    "review_count": 3,
+    "name": "Margaret",
+    "user_id": "GVg3PFwhmjyZUoSnLQQkag",
+    "friends": [],
+    "fans": 0,
+    "average_stars": 3.5,
+    "type": "user",
+    "compliments": {},
+    "elite": []
+}]
