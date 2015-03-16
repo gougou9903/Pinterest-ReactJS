@@ -11,12 +11,12 @@ var BoardListItem = React.createClass({
 
         return ( 
             <div className="item row" >
-                <div className="itemName six columns" onClick={this.handleClick}>
-                    {item.name}                    
+                <div className="itemName nine columns" onClick={this.handleClick}>
+                    <h4>
+                    {item.name} 
+                    </h4>                   
                 </div>
-                 <div className="itemssss six columns">
-                     {}   
-                 </div>
+                      
             </div>
         )
   }

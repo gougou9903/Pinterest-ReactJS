@@ -1,4 +1,4 @@
-var DoctorList = React.createClass({displayName: 'DoctorList',
+var PinList = React.createClass({displayName: 'PinList',
 
     getInitialState: function() {
         return {data: []};
@@ -19,29 +19,29 @@ var DoctorList = React.createClass({displayName: 'DoctorList',
         });
     },
 
-    handleListItemClicked: function(business_id){
-        var doctor = _.find(this.state.data, {business_id: business_id})
-        this.refs.doctorView.setState({doctor:doctor})
+    handleListItemClicked: function(href){
+        var pin = _.find(this.state.data, {href: href})
+        this.refs.pinView.setState({pin:pin})
     },
 
     render: function() {
 
         var self = this
 
-        var doctors = this.state.data.map(function (doctor) {
+        var pins = this.state.data.map(function (pin) {
         
           return (    
-            <DoctorListItem doctor={doctor} onListItemClicked={self.handleListItemClicked}/>
+            <PinListItem pin={pin} onListItemClicked={self.handleListItemClicked}/>
             )
         })        
 
         return (
-            <div className="doctorPage">
-                <div className="doctorList six columns">
-                    {doctors}
+            <div className="pinPage">
+                <div className="pinList six columns">
+                    {pins}
                 </div>
-                <div className="doctorView six columns">
-                    <DoctorView ref="doctorView"/>
+                <div className="pinView six columns">
+                    <PinView ref="pinView"/>
                 </div>
             </div>
         )

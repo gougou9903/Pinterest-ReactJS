@@ -1,14 +1,14 @@
 $( "#boards" ).on( "click", function( event ) {
     React.render(
-        <BoardList url='https://unpinterest.herokuapp.com/board/list'/>,
+        <BoardList url='https://pinterest-react-server.herokuapp.com/board/list'/>,
         document.getElementById('content')
     )
 })
 
 $( "#pins" ).on( "click", function( event ) {
     React.render(
-        // <UserList url='data/users.json.data'/>,
-        // document.getElementById('content')
+         <PinList url='https://pinterest-react-server.herokuapp.com/pin/list'/>,
+        document.getElementById('content')
     )
 })
 

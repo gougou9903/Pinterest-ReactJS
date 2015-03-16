@@ -11,9 +11,10 @@ var BoardView = React.createClass({
             return ( 
                 <div className="itemView" >
                     <h2 className="itemName">
-                        {this.state.item.name}
+                        {this.state.item.name}<br/>
                     </h2>
                     
+                    <img src={this.state.item.src}></img><br/>
                 </div>
             )
 

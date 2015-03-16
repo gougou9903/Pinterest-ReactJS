@@ -1,19 +1,24 @@
-var DoctorView = React.createClass({
+var PinView = React.createClass({
 
     getInitialState: function() {
-        return {doctor: null}
+        return {pin: null}
     },
 
     render: function() {
         
-        if (this.state.doctor){
+        if (this.state.pin){
 
             return ( 
-                <div className="doctorView" >
-                    <h2 className="doctorName">
-                        {this.state.doctor.name}
+                <div className="pinView" >
+                    <div className="pinName row">
+                    <h2>
+                        {this.state.pin.name}<br/>
                     </h2>
-                    {this.state.doctor.full_address}
+                    </div>
+
+                    <div className="picture row">
+                    <img src={this.state.pin.src}></img><br/>
+                    </div>
                 </div>
             )
 
