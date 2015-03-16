@@ -12,7 +12,7 @@ var BoardList = React.createClass({displayName: 'BoardList',
                 this.setState({
                     data: data
                 });
-                console.log("asdfasdf")
+                
             }.bind(this),
             error: function(xhr, status, err) {
                 console.error(this.props.url, status, err.toString());
