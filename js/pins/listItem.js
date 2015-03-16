@@ -1,23 +1,25 @@
-var DoctorListItem = React.createClass({
+var PinListItem = React.createClass({
 
     handleClick: function(event) {
-        console.log('an item is clicked', this.props.doctor)
-        this.props.onListItemClicked(this.props.doctor.business_id)
+        console.log('an item is clicked', this.props.pin)
+        this.props.onListItemClicked(this.props.pin.href)
     },
 
     render: function() {
 
-        var doctor = this.props.doctor
+        var pin = this.props.pin
 
         return ( 
-            <div className="doctor row" >
-                <div className="doctorName six columns" onClick={this.handleClick}>
-                    {doctor.name}                    
+            <div className="pin row" >
+                <div className="doctorName twelve columns" onClick={this.handleClick}>
+                    <b>
+                    {pin.desc}
+                    </b>                   
                 </div>
-                <div className="doctorCity six columns">
-                    {doctor.city}   
-                </div>
+                
+                
             </div>
+            
         )
   }
 })
